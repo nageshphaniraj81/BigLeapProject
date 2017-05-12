@@ -61,8 +61,9 @@ public class ReflectionDemo {
 		System.out.println();
 		
 		// To Find out Interfaces
+		@SuppressWarnings("rawtypes")
 		Class[] Interfaces = PersonClass.getInterfaces();
-		for (Class class1 : Interfaces) {
+		for (@SuppressWarnings("rawtypes") Class class1 : Interfaces) {
 			System.out.println(class1.getName());
 		}
 		

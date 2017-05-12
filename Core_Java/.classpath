@@ -3,6 +3,10 @@
 	<classpathentry kind="src" path="Generics"/>
 	<classpathentry kind="src" path="Collections"/>
 	<classpathentry kind="src" path="Reflection"/>
+	<classpathentry kind="src" path="Fundamentals"/>
+	<classpathentry kind="src" path="WrapperClasses"/>
+	<classpathentry kind="src" path="Interfaces"/>
+	<classpathentry kind="src" path="Abstraction"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
