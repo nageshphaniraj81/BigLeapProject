@@ -8,6 +8,12 @@
 	<classpathentry kind="src" path="Interfaces"/>
 	<classpathentry kind="src" path="Abstraction"/>
 	<classpathentry kind="src" path="Inheritance"/>
+	<classpathentry kind="src" path="Polymorphism"/>
+	<classpathentry kind="src" path="encapsulation"/>
+	<classpathentry kind="src" path="ExceptionHandling"/>
+	<classpathentry kind="src" path="Arrays"/>
+	<classpathentry kind="src" path="Strings"/>
+	<classpathentry kind="src" path="ObjectClass"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

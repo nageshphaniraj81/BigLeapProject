@@ -1,0 +1,21 @@
+package OverrideHashcodeMethod;
+
+public class TestPassanger {
+
+	public static void main(String[] args) {
+       Passanger passanger = new Passanger();
+       passanger.setFirstName("Nagesh");
+       passanger.setLastName("Phaniraj");
+       passanger.setId(123);
+       
+       Passanger passanger2 = new Passanger();
+       passanger2.setFirstName("Nagesh");
+       passanger2.setLastName("Phaniraj");
+       passanger2.setId(123);
+       
+       System.out.println("Hashcode of passenger "+passanger.hashCode()+"Hashcode of passenger2 "+passanger2.hashCode());
+       System.out.println(passanger.equals(passanger2));
+       
+	}
+
+}
