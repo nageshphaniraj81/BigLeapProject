@@ -14,6 +14,15 @@
 	<classpathentry kind="src" path="Arrays"/>
 	<classpathentry kind="src" path="Strings"/>
 	<classpathentry kind="src" path="ObjectClass"/>
+	<classpathentry kind="src" path="Enum"/>
+	<classpathentry kind="src" path="Multithreading"/>
+	<classpathentry kind="src" path="GarbageCollection"/>
+	<classpathentry kind="src" path="InnerClasses"/>
+	<classpathentry kind="src" path="CollectionsAdvanced"/>
+	<classpathentry kind="src" path="JVMArchitecture"/>
+	<classpathentry kind="src" path="Internationalization"/>
+	<classpathentry kind="src" path="Algorithm"/>
+	<classpathentry kind="src" path="DataStructures"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
