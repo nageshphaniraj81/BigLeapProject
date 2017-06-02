@@ -1,0 +1,49 @@
+Notes:
+Data Structure usage in real world example:
+----------------------------------------
+
+1. SET : Membership information in a library
+2. HASH TABLES : Compiler
+3. STACK : undo operation son all applications
+4. SUFFIX TREE : Search engines
+5. GRAPHS : Social Networks
+
+Performance and sorting :
+--------------------------
+
+Time <> Space <> Network Bandwidth
+
+Complexity:
+-----------
+Complexity is a measure of how resource requirements change as the
+ size of the proble gets larger.
+ 
+ Higher the complexity, more the performance.
+ 
+ Big O notation:
+ --------------------------------------------------------------
+1. Constant time complexity = O(1)
+2. Lenear time complexity , where complexity increases with the value of n that is input = O(n)
+3. Quadratic = O(n2)
+
+Examples:
+
+1. O(n+100) = O(n)
+2. O(n+m) : where n and m are inputs
+3. O(n*m)
+4. O(n2+n) = O(n2)
+5. O(log n): INPUT SPACE IS HALVED IN SOME WAY FOR EVERY ITERATION
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
