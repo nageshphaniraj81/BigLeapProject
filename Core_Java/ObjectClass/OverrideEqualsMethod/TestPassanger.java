@@ -14,6 +14,8 @@ public class TestPassanger {
 	       passanger2.setId(123);
 	       
 	       System.out.println(passanger.equals(passanger2));
+	       System.out.println(passanger.hashCode());
+	       System.out.println(passanger2.hashCode());
 	}
 
 }

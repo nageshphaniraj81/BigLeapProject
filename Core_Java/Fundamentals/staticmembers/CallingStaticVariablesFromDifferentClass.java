@@ -1,6 +1,7 @@
 package staticmembers;
 
 public class CallingStaticVariablesFromDifferentClass {
+	
 	public static void main(String[] args) {
 		
 		// calling static variable from different class

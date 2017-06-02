@@ -23,7 +23,6 @@ public class NonStaticMemberDemo {
 		new NonStaticMemberDemo();
 		new NonStaticMemberDemo();
 		new NonStaticMemberDemo();
-		
 		new NonStaticMemberDemo().iceCream();
 	}
 	

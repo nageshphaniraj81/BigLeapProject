@@ -21,7 +21,7 @@ public class StactDemo {
 		}
 		
 		// Test size method
-		int max = myStack.size()-1;
+		int max = myStack.size();
 		System.out.println("Stack size is "+max);
 		
 	    // test pop method
@@ -30,7 +30,7 @@ public class StactDemo {
 		}
 		
 		//Test peack method
-		System.out.println("Peek of the stack is : "+myStack.peek());
+	//	System.out.println("Peek of the stack is : "+myStack.peek());
 	}
 	
 	

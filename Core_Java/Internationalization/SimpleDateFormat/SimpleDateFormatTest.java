@@ -8,7 +8,7 @@ public class SimpleDateFormatTest {
 
 	public static void main(String[] args) throws ParseException {
 
-		SimpleDateFormat sdf = new SimpleDateFormat("M/dd/yyyy");
+		SimpleDateFormat sdf = new SimpleDateFormat("M/dd/y.yyy");
 		String date = sdf.format(new Date());
 		System.out.println(date);
 		

@@ -15,7 +15,7 @@ public class DemoArrayIndexOutofBoundException {
 		System.out.println("Code after array");
 	}
 	
-	void method1(){
+	 void  method1(){
 		System.out.println("Method 1");
 	}
 

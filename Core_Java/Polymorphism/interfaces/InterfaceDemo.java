@@ -7,14 +7,13 @@ public class InterfaceDemo {
 		macbookAir.start();
 		macbookAir.shutdown();
 		
-		AppleLaptop macbookPro = new MACBookPro();
+		MACBookPro macbookPro = new MACBookPro();
 		macbookPro.start();
 		macbookPro.shutdown();
-
 		
-		// Object casting
-		MACBookPro m2 = (MACBookPro)macbookPro;
-		m2.proMethod();
+//		// Object casting
+//		MACBookPro m2 = (MACBookPro)macbookPro;
+//		m2.proMethod();
 
 	}
 

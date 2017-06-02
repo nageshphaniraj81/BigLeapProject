@@ -3,6 +3,7 @@ package interfaces;
 public class MACBookPro extends MACBook {
 	@Override
 	public void start() {
+		super.start();
 		System.out.println("Inside MACBookPro start method");
 	}
 

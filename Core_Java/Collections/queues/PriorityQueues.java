@@ -13,7 +13,6 @@ public class PriorityQueues {
 		person.add(new Persons("Mahesh",10));
 		person.add(new Persons("Kumar",70));
 		
-		
 		while(person.peek()!=null){
 			System.out.println(person.poll());
 		}

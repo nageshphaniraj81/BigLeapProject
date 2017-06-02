@@ -2,11 +2,11 @@ package GarbageCollection;
 
 public class GCDemo {
 	
-	int objID;
+	int x;
 	
-	GCDemo(int objID){
-		this.objID = objID;
-		System.out.println(this+" : Created for the object ID"+this.objID);
+	GCDemo(int x){
+		this.x = x;
+		System.out.println(this+" : Created for the object ID"+this.x);
 	}
 
 	public static void main(String[] args) {
@@ -21,7 +21,7 @@ public class GCDemo {
    //the Object finalize method performs no actions but it may be overridden by any class.
    @Override
    public void finalize(){
-	   System.out.println(this+" : Finalized for the object ID"+this.objID);
+	   System.out.println(this+" : Finalized for the object ID"+this.x);
    }
 	
 
